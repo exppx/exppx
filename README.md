@@ -31,6 +31,3 @@ Email: moringleb183@gmail.com
 Telegram: [@exppx](https://t.me/exppx)
 
 GitHub: [exppx](https://github.com/exppx)
-
-## Some stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=exppx)](https://github.com/anuraghazra/github-readme-stats)
